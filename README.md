@@ -8,11 +8,8 @@ This is an interactive web application built with Streamlit that calculates an e
 
 You can access the live application here:
 
-**[➡️ Click here to view the live app](YOUR_STREAMLIT_APP_LINK_HERE)**
+**[➡️ Click here to view the live app](https://telematics-integration-in-auto-insurance-yhbzp4rbes27skrfig4qv.streamlit.app/)**
 
-*(Note: Replace `YOUR_STREAMLIT_APP_LINK_HERE` with the actual URL of your deployed Streamlit application.)*
-
----
 
 ## ✨ Features
 
